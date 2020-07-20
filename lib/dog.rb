@@ -1,6 +1,8 @@
 require "pry" 
 
-class Dog 
+class Dog
+  
+  @@all = []
   
 end
   
