@@ -8,5 +8,13 @@ class Dog
     
   end
   
+  def .all
+    
+  end
+  
+  def .print_all
+    
+  end
+  
 end
   
